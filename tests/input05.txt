@@ -1,0 +1,10 @@
+NO abba
+NO abracadabra
+YES ababababababa
+YES aabbbbbbbbbbaaaaaabaaaab
+YES abbbbbbbbaaaaaaabbbbbbabbbabbbb
+NO abbbabbbbbbbbbbbbbbbbbbbbbbbbbb
+NO babbbbbabbbbbbbbbbbaaaaaaaaaaaa
+NO xyzaabbbbbbbbbbxyzbbbbbbbbbbbbaaaaaaa
+YES xyzqrsaaaaaabbbaaaaaaaaaaaaaabxyz
+YES xyzqrsaaaaabbbbbbbababbbbbbbbbb!
